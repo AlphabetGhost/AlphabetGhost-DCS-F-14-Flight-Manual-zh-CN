@@ -17,7 +17,7 @@ https://kaidrick.github.io/DCS-F-14-Flight-Manual-zh-CN/
 如果要将手册翻译成其他语言，这些`*.pot`文件可能会很有用。
 
 手册链接：
-https://kaidrick.github.io/DCS-F-14-Flight-Manual-zh-CN/
+https://alphabet-ghost.gitee.io/dcs-f-14-flight-online-manual-zh-cn/
 
 
 **在此特别感谢Heatblur Simulations公开了翻译所需的文件，也感谢所有参与此项目翻译、校对、技术支持和镜像分流的玩家个人/群体。**
