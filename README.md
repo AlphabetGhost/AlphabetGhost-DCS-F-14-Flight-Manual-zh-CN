@@ -5,7 +5,7 @@ Along with the source files are `*.pot` files extracted from reStructuredText an
 These `*.pot` files may be useful if you want to translate the manual into other languages.
 
 The translated manual can be read from:
-https://kaidrick.github.io/DCS-F-14-Flight-Manual-zh-CN/
+https://alphabet-ghost.gitee.io/dcs-f-14-flight-online-manual-zh-cn/
 
 **Special thanks to Heatblur Simulations for making necessary files publically available for translation, and to all individuals and groups for their efforts and involvement in the translation, proofreading and technical support of this project.**
 
